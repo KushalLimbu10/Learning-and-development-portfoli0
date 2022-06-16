@@ -1,7 +1,10 @@
 *{
     background-color: aqua;
 }
-.p{
+.h{
     font-family: 'Courier New', Courier, monospace;
+    color: black;
+}
+.p{
     color: black;
 }
